@@ -1,4 +1,4 @@
-# Uber_Supply_Demand_Gap
+# Uber_Supply_Demand_Gap_Analysis
 
 This project explores the imbalance between ride requests and driver availability on Uber’s platform. Using real-world ride request data, the analysis identifies the causes behind missed trips, peak demand patterns, and service inefficiencies. The goal is to deliver actionable insights to reduce cancellations and improve service availability.
 
