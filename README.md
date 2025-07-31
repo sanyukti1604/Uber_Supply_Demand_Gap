@@ -62,7 +62,7 @@ Time series graphs for hourly trends and driver availability
 
 Heatmaps for high-cancellation zones
 
-Conclusion
+##Conclusion
 
 This project gave a comprehensive view of Uber’s supply-demand challenges through a combination of SQL, Python, Excel, and Power BI. It revealed the critical timeframes and locations where Uber struggles to meet demand, especially during peak hours at the airport. The dashboard and insights can assist operations teams in optimizing driver deployment, reducing cancellations, and enhancing customer experience.
 
